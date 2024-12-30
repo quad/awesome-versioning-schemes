@@ -52,6 +52,8 @@ _The author(s) or maintainer(s) of the following schemes **MAY** intend them for
 
 - [SoloVer](https://beza1e1.tuxen.de/SoloVer) <!-- 2024-03-16 --> - Intentionally do not try to communicate "backward compatibility" as there is no objective and satisfying definition anyways.
 
+- [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263) <!-- 2024-12-22 --> - Bump when you are proud (or ashamed).
+
 ### Restricted Schemes
 
 _Programmers are warned that the author(s) or maintainer(s) of the following schemes **MAY NOT** intend them for general use._
